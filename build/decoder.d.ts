@@ -12,3 +12,4 @@ export declare class JsonDecoder implements Decoder {
     decode(encoded: string, format: string): object;
     supportsDecoding(format: string): boolean;
 }
+//# sourceMappingURL=decoder.d.ts.map

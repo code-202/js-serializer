@@ -15,3 +15,4 @@ const buildDefaultDeserializer = () => {
     return new deserializer_1.Deserializer(new denormalizer_1.Denormalizer(), new decoder_1.JsonDecoder());
 };
 exports.buildDefaultDeserializer = buildDefaultDeserializer;
+//# sourceMappingURL=default.js.map

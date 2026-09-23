@@ -6,3 +6,4 @@ export declare class Deserializer {
     constructor(denormalizer: Denormalizer, decoder: Decoder);
     deserialize(obj: any, serialized: string, format: string): void;
 }
+//# sourceMappingURL=deserializer.d.ts.map

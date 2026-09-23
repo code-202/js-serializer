@@ -12,3 +12,4 @@ export declare class JsonEncoder implements Encoder {
     encode(data: object, format: string): string;
     supportsEncoding(format: string): boolean;
 }
+//# sourceMappingURL=encoder.d.ts.map

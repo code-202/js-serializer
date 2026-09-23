@@ -16,3 +16,4 @@ class Serializer {
     }
 }
 exports.Serializer = Serializer;
+//# sourceMappingURL=serializer.js.map

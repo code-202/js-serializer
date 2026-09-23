@@ -18,3 +18,4 @@ var normalizer_1 = require("./normalizer");
 Object.defineProperty(exports, "Normalizer", { enumerable: true, get: function () { return normalizer_1.Normalizer; } });
 var serializer_1 = require("./serializer");
 Object.defineProperty(exports, "Serializer", { enumerable: true, get: function () { return serializer_1.Serializer; } });
+//# sourceMappingURL=index.js.map

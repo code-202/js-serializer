@@ -6,3 +6,4 @@ export declare class Serializer {
     constructor(normalizer: Normalizer, encoder: Encoder);
     serialize(obj: object, format: string): string;
 }
+//# sourceMappingURL=serializer.d.ts.map

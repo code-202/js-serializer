@@ -5,3 +5,4 @@ export declare class Denormalizer {
     denormalize(obj: Denormalizable<object>, data: object): any;
     isDenormalizable(obj: any): obj is Denormalizable<object>;
 }
+//# sourceMappingURL=denormalizer.d.ts.map

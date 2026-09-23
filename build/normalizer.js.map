@@ -1,0 +1,1 @@
+{"version":3,"file":"normalizer.js","sourceRoot":"","sources":["../src/normalizer.ts"],"names":[],"mappings":";;;AAIA,MAAa,UAAU;IACZ,SAAS,CAAC,GAAyB;QACtC,OAAO,GAAG,CAAC,SAAS,EAAE,CAAA;IAC1B,CAAC;IAEM,cAAc,CAAC,GAAQ;QAC1B,OAAO,WAAW,IAAI,GAAG,IAAI,OAAO,GAAG,CAAC,SAAS,KAAK,UAAU,CAAA;IACpE,CAAC;CACJ;AARD,gCAQC"}

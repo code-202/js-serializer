@@ -5,3 +5,4 @@ export declare class Normalizer {
     normalize(obj: Normalizable<object>): object;
     isNormalizable(obj: any): obj is Normalizable<object>;
 }
+//# sourceMappingURL=normalizer.d.ts.map

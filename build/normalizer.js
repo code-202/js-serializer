@@ -10,3 +10,4 @@ class Normalizer {
     }
 }
 exports.Normalizer = Normalizer;
+//# sourceMappingURL=normalizer.js.map

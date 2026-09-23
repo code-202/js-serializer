@@ -37,3 +37,4 @@ class JsonDecoder {
     }
 }
 exports.JsonDecoder = JsonDecoder;
+//# sourceMappingURL=decoder.js.map
